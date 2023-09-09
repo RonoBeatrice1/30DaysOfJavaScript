@@ -58,7 +58,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 
 
 
-## Extra Practice
+## More Practice
 
 <table>
   <tr><th></th><th></th></tr>
@@ -264,7 +264,7 @@ Before making any contribution, big or small, Contributors are advised to go thr
 
 ## Code of Conduct
 
-To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
+To maintain a safe and  accomodative development environment for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Our valuable Contributors
 
